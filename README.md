@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> This is Exploratory Data Analysis done on the data from Lending Club company which offers variety of loans to their customers.
 
 
 ## Table of Contents
