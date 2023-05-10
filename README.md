@@ -12,7 +12,7 @@
 
 ## General Information
 - <b>About the case study:</b> Lending Club is a peer-to-peer lending platform that connects borrowers with investors. The company was founded in 2007 and has since facilitated over $50 billion in loans.In this presentation, we will analyze the data provided by Lending Club to identify the types of borrowers who are most likely to default on their loans.
-- <b>Business Problem that need to be solved:</b> This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+- <b>Business Problem that need to be solved:</b> Lending Club company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 
     Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
     If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
